@@ -6,7 +6,7 @@ Coding Institute Student Project
 
 ## Welcome To The Readme.md Page Introduction
 
-Feel Free To Browse And Access My Coding Institute Project [bandproject] (BEAR413.github.io/bandwebpage.html )
+Feel Free To Browse And Access My Coding Institute Project [bandproject]:(http://BEAR413.github.io/bandwebpage.html)
 
 **Contactus Page Needs work To Properly Except Booking Submition and Provide Confirmation**
 
